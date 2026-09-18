@@ -23,5 +23,5 @@ This repository contains a collection of academic and personal projects develope
 * Managed visualization plots using Matplotlib to map out linguistic membership variable intervals.
 
 ---
-📬 alejandrito112005@gmail.com  Feel free to explore my code or connect with me via LinkedIn:
+📬 alejandroparradoparra25@gmail.com  Feel free to explore my code or connect with me via LinkedIn:
 www.linkedin.com/in/alejandro-parrado-parra-210367438 
