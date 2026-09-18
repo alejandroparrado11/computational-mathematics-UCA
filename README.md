@@ -16,6 +16,12 @@ This repository contains a collection of academic and personal projects develope
 * Developed scripts to process data, run statistical tests, and visualize mathematical distributions.
 * Applied probability models to simulate random variables and stochastic scenarios.
 
+  
+### 3. Fuzzy Logic Inference Engine & Climate Controller (Python)
+* Solved a complex continuous system control problem using custom triangular and trapezoidal mathematical functions from scratch.
+* Implemented Mamdani Max-Min composition matrices and solved numerical integration via Centroid Defuzzification vectors using NumPy.
+* Managed visualization plots using Matplotlib to map out linguistic membership variable intervals.
+
 ---
 📬 alejandrito112005@gmail.com  Feel free to explore my code or connect with me via LinkedIn:
 www.linkedin.com/in/alejandro-parrado-parra-210367438 
